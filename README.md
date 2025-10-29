@@ -1,6 +1,8 @@
 # project Vinimi-ReactJs
 
+
 Main Components
+
 **1. Dashboard**
 Interactive compliance metrics (helmet usage, detection count, zone breakdown).
 
